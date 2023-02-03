@@ -28,3 +28,8 @@ go to ( script.js > line 6 )
 # HOW TO USE
 Just input the date and name of the particular event, for eg: (New year, Birthday, Important dates, etc). <br>
 And hence you are ready to go.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-shrungare/)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anikettt)
